@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NinePatch</string>
+    <string name="cadena_corta">Cadena Corta</string>
+    <string name="cadena_larga">Cadena bastante más larga que ocupe más espacio</string>
+</resources>
